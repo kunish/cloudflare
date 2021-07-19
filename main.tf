@@ -4,6 +4,13 @@ terraform {
       source = "cloudflare/cloudflare"
     }
   }
+
+  backend "remote" {
+    organization = "kunish"
+    workspaces {
+      name = "dns"
+    }
+  }
 }
 
 provider "cloudflare" {
