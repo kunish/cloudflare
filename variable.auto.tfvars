@@ -79,4 +79,28 @@ record_map = {
     value   = "shikun.info"
     proxied = true
   }
+  "sentry" = {
+    name    = "sentry"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
+  "argo-cd" = {
+    name    = "argo-cd"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
+  "whoami" = {
+    name    = "whoami"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
+  "tekton" = {
+    name    = "tekton"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
 }
