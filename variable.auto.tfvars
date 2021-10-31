@@ -97,14 +97,14 @@ record_map = {
     value   = "shikun.info"
     proxied = true
   }
-  "tekton" = {
-    name    = "tekton"
+  "website" = {
+    name    = "website"
     type    = "CNAME"
     value   = "shikun.info"
     proxied = true
   }
-  "website" = {
-    name    = "website"
+  "keel" = {
+    name    = "keel"
     type    = "CNAME"
     value   = "shikun.info"
     proxied = true
