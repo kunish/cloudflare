@@ -91,6 +91,12 @@ record_map = {
     value   = "shikun.info"
     proxied = true
   }
+  "tekton-webhook" = {
+    name    = "tekton-webhook"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
   "whoami" = {
     name    = "whoami"
     type    = "CNAME"
