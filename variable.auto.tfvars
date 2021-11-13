@@ -109,6 +109,12 @@ record_map = {
     value   = "shikun.info"
     proxied = true
   }
+  "l" = {
+    name    = "l"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
   "umami" = {
     name    = "umami"
     type    = "CNAME"
