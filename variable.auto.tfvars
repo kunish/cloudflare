@@ -127,4 +127,16 @@ record_map = {
     value   = "shikun.info"
     proxied = true
   }
+  "minio" = {
+    name    = "minio"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
+  "minio-api" = {
+    name    = "minio-api"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
 }
