@@ -139,4 +139,10 @@ record_map = {
     value   = "shikun.info"
     proxied = true
   }
+  "loki-grafana" = {
+    name    = "loki-grafana"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
 }
