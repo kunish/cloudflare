@@ -22,14 +22,14 @@ record_map = {
   "gitlab-registry" = {
     name    = "gitlab-registry"
     type    = "CNAME"
-    value   = "shikun.info"
-    proxied = true
+    value   = "linode.vps.shikun.icu"
+    proxied = false
   }
   "gitlab" = {
     name    = "gitlab"
     type    = "CNAME"
-    value   = "shikun.info"
-    proxied = true
+    value   = "linode.vps.shikun.icu"
+    proxied = false
   }
   "nas" = {
     name    = "nas"
