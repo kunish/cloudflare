@@ -13,24 +13,6 @@ record_map = {
     value   = "shikun.info"
     proxied = true
   }
-  "gitlab-ssh" = {
-    name    = "gitlab-ssh"
-    type    = "CNAME"
-    value   = "shikun.info"
-    proxied = true
-  }
-  "gitlab-registry" = {
-    name    = "gitlab-registry"
-    type    = "CNAME"
-    value   = "linode.vps.shikun.icu"
-    proxied = false
-  }
-  "gitlab" = {
-    name    = "gitlab"
-    type    = "CNAME"
-    value   = "linode.vps.shikun.icu"
-    proxied = false
-  }
   "nas" = {
     name    = "nas"
     type    = "CNAME"
