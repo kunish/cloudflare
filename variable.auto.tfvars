@@ -79,4 +79,10 @@ record_map = {
     value   = "shikun.info"
     proxied = true
   }
+  "up" = {
+    name    = "up"
+    type    = "CNAME"
+    value   = "shikun.info"
+    proxied = true
+  }
 }
